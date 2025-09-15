@@ -1,0 +1,6 @@
+compile:
+  qmk compile
+
+use:
+  qmk config user.keyboard=zsa/planck_ez/glow
+  qmk config user.keymap=vypxl
