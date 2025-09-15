@@ -1,0 +1,6 @@
+compile:
+  qmk compile
+
+use:
+  qmk config user.keyboard=zsa/voyager
+  qmk config user.keymap=vypxl
